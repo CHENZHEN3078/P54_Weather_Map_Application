@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://WebXml.com.cn/">
+  <string>湖南 衡阳</string>
+  <string>衡阳</string>
+  <string>1780</string>
+  <string>2016/08/29 00:16:35</string>
+  <string>今日天气实况：气温：24℃；风向/风力：东北风 1级；湿度：59%</string>
+  <string>紫外线强度：强。空气质量：中。</string>
+  <string>紫外线指数：强，涂擦SPF大于15、PA+防晒护肤品。
+感冒指数：少发，无明显降温，感冒机率较低。
+穿衣指数：热，适合穿T恤、短薄外套等夏季服装。
+洗车指数：较适宜，无雨且风力较小，易保持清洁度。
+运动指数：较适宜，户外运动请注意防晒。
+空气污染指数：中，易感人群应适当减少室外活动。
+</string>
+  <string>8月28日 晴</string>
+  <string>22℃/29℃</string>
+  <string>北风微风</string>
+  <string>0.gif</string>
+  <string>0.gif</string>
+  <string>8月29日 晴转多云</string>
+  <string>22℃/30℃</string>
+  <string>北风微风</string>
+  <string>0.gif</string>
+  <string>1.gif</string>
+  <string>8月30日 多云</string>
+  <string>22℃/31℃</string>
+  <string>北风微风</string>
+  <string>1.gif</string>
+  <string>1.gif</string>
+  <string>8月31日 阵雨</string>
+  <string>22℃/26℃</string>
+  <string>北风微风</string>
+  <string>3.gif</string>
+  <string>3.gif</string>
+  <string>9月1日 阵雨转阴</string>
+  <string>22℃/25℃</string>
+  <string>北风微风</string>
+  <string>3.gif</string>
+  <string>2.gif</string>
+</ArrayOfString>

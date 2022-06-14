@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="weather:war exploded">
+    <output-path>$PROJECT_DIR$/WebContent/WEB-INF/classes/artifacts/weather_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="weather" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="module" name="jstl-1.2.jar" module-name="weather" />
+          <element id="library" level="module" name="gson-2.7.jar" module-name="weather" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="weather/web/Web" />
+    </root>
+  </artifact>
+</component>

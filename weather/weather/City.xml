@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataSet xmlns="http://WebXml.com.cn/">
+  <xs:schema id="Region" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Region" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="City">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="CityID" type="xs:int" minOccurs="0" />
+                <xs:element name="CityName" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+    <Region xmlns="">
+      <City diffgr:id="City1" msdata:rowOrder="0">
+        <CityID>1665</CityID>
+        <CityName>安化</CityName>
+      </City>
+      <City diffgr:id="City2" msdata:rowOrder="1">
+        <CityID>1784</CityID>
+        <CityName>安仁</CityName>
+      </City>
+      <City diffgr:id="City3" msdata:rowOrder="2">
+        <CityID>1624</CityID>
+        <CityName>安乡</CityName>
+      </City>
+      <City diffgr:id="City4" msdata:rowOrder="3">
+        <CityID>1653</CityID>
+        <CityName>保靖</CityName>
+      </City>
+      <City diffgr:id="City5" msdata:rowOrder="4">
+        <CityID>1785</CityID>
+        <CityName>茶陵</CityName>
+      </City>
+      <City diffgr:id="City6" msdata:rowOrder="5">
+        <CityID>1670</CityID>
+        <CityName>长沙</CityName>
+      </City>
+      <City diffgr:id="City7" msdata:rowOrder="6">
+        <CityID>1781</CityID>
+        <CityName>常宁</CityName>
+      </City>
+      <City diffgr:id="City8" msdata:rowOrder="7">
+        <CityID>1662</CityID>
+        <CityName>常德</CityName>
+      </City>
+      <City diffgr:id="City9" msdata:rowOrder="8">
+        <CityID>1660</CityID>
+        <CityName>辰溪</CityName>
+      </City>
+      <City diffgr:id="City10" msdata:rowOrder="9">
+        <CityID>1834</CityID>
+        <CityName>郴州</CityName>
+      </City>
+      <City diffgr:id="City11" msdata:rowOrder="10">
+        <CityID>1771</CityID>
+        <CityName>城步</CityName>
+      </City>
+      <City diffgr:id="City12" msdata:rowOrder="11">
+        <CityID>1617</CityID>
+        <CityName>慈利</CityName>
+      </City>
+      <City diffgr:id="City13" msdata:rowOrder="12">
+        <CityID>1830</CityID>
+        <CityName>道县</CityName>
+      </City>
+      <City diffgr:id="City14" msdata:rowOrder="13">
+        <CityID>1776</CityID>
+        <CityName>东安</CityName>
+      </City>
+      <City diffgr:id="City15" msdata:rowOrder="14">
+        <CityID>1711</CityID>
+        <CityName>洞口</CityName>
+      </City>
+      <City diffgr:id="City16" msdata:rowOrder="15">
+        <CityID>1701</CityID>
+        <CityName>凤凰</CityName>
+      </City>
+      <City diffgr:id="City17" msdata:rowOrder="16">
+        <CityID>1655</CityID>
+        <CityName>古丈</CityName>
+      </City>
+      <City diffgr:id="City18" msdata:rowOrder="17">
+        <CityID>1663</CityID>
+        <CityName>汉寿</CityName>
+      </City>
+      <City diffgr:id="City19" msdata:rowOrder="18">
+        <CityID>1726</CityID>
+        <CityName>衡东</CityName>
+      </City>
+      <City diffgr:id="City20" msdata:rowOrder="19">
+        <CityID>1789</CityID>
+        <CityName>桂东</CityName>
+      </City>
+      <City diffgr:id="City21" msdata:rowOrder="20">
+        <CityID>1725</CityID>
+        <CityName>衡山</CityName>
+      </City>
+      <City diffgr:id="City22" msdata:rowOrder="21">
+        <CityID>1835</CityID>
+        <CityName>桂阳</CityName>
+      </City>
+      <City diffgr:id="City23" msdata:rowOrder="22">
+        <CityID>1652</CityID>
+        <CityName>花垣</CityName>
+      </City>
+      <City diffgr:id="City24" msdata:rowOrder="23">
+        <CityID>1623</CityID>
+        <CityName>华容</CityName>
+      </City>
+      <City diffgr:id="City25" msdata:rowOrder="24">
+        <CityID>1708</CityID>
+        <CityName>怀化</CityName>
+      </City>
+      <City diffgr:id="City26" msdata:rowOrder="25">
+        <CityID>3455</CityID>
+        <CityName>赫山区</CityName>
+      </City>
+      <City diffgr:id="City27" msdata:rowOrder="26">
+        <CityID>1657</CityID>
+        <CityName>吉首</CityName>
+      </City>
+      <City diffgr:id="City28" msdata:rowOrder="27">
+        <CityID>1782</CityID>
+        <CityName>衡南</CityName>
+      </City>
+      <City diffgr:id="City29" msdata:rowOrder="28">
+        <CityID>1780</CityID>
+        <CityName>衡阳</CityName>
+      </City>
+      <City diffgr:id="City30" msdata:rowOrder="29">
+        <CityID>1779</CityID>
+        <CityName>衡阳县</CityName>
+      </City>
+      <City diffgr:id="City31" msdata:rowOrder="30">
+        <CityID>1765</CityID>
+        <CityName>会同</CityName>
+      </City>
+      <City diffgr:id="City32" msdata:rowOrder="31">
+        <CityID>1836</CityID>
+        <CityName>嘉禾</CityName>
+      </City>
+      <City diffgr:id="City33" msdata:rowOrder="32">
+        <CityID>2271</CityID>
+        <CityName>江华</CityName>
+      </City>
+      <City diffgr:id="City34" msdata:rowOrder="33">
+        <CityID>1832</CityID>
+        <CityName>江永</CityName>
+      </City>
+      <City diffgr:id="City35" msdata:rowOrder="34">
+        <CityID>1712</CityID>
+        <CityName>冷水江</CityName>
+      </City>
+      <City diffgr:id="City36" msdata:rowOrder="35">
+        <CityID>1618</CityID>
+        <CityName>澧县</CityName>
+      </City>
+      <City diffgr:id="City37" msdata:rowOrder="36">
+        <CityID>1729</CityID>
+        <CityName>醴陵</CityName>
+      </City>
+      <City diffgr:id="City38" msdata:rowOrder="37">
+        <CityID>1714</CityID>
+        <CityName>涟源</CityName>
+      </City>
+      <City diffgr:id="City39" msdata:rowOrder="38">
+        <CityID>1619</CityID>
+        <CityName>临澧</CityName>
+      </City>
+      <City diffgr:id="City40" msdata:rowOrder="39">
+        <CityID>1629</CityID>
+        <CityName>临湘</CityName>
+      </City>
+      <City diffgr:id="City41" msdata:rowOrder="40">
+        <CityID>1764</CityID>
+        <CityName>靖州</CityName>
+      </City>
+      <City diffgr:id="City42" msdata:rowOrder="41">
+        <CityID>1674</CityID>
+        <CityName>浏阳</CityName>
+      </City>
+      <City diffgr:id="City43" msdata:rowOrder="42">
+        <CityID>1612</CityID>
+        <CityName>龙山</CityName>
+      </City>
+      <City diffgr:id="City44" msdata:rowOrder="43">
+        <CityID>1717</CityID>
+        <CityName>隆回</CityName>
+      </City>
+      <City diffgr:id="City45" msdata:rowOrder="44">
+        <CityID>1837</CityID>
+        <CityName>蓝山</CityName>
+      </City>
+      <City diffgr:id="City46" msdata:rowOrder="45">
+        <CityID>1715</CityID>
+        <CityName>娄底</CityName>
+      </City>
+      <City diffgr:id="City47" msdata:rowOrder="46">
+        <CityID>1659</CityID>
+        <CityName>泸溪</CityName>
+      </City>
+      <City diffgr:id="City48" msdata:rowOrder="47">
+        <CityID>1783</CityID>
+        <CityName>耒阳</CityName>
+      </City>
+      <City diffgr:id="City49" msdata:rowOrder="48">
+        <CityID>1774</CityID>
+        <CityName>冷水滩</CityName>
+      </City>
+      <City diffgr:id="City50" msdata:rowOrder="49">
+        <CityID>1704</CityID>
+        <CityName>麻阳</CityName>
+      </City>
+      <City diffgr:id="City51" msdata:rowOrder="50">
+        <CityID>1673</CityID>
+        <CityName>马坡岭</CityName>
+      </City>
+      <City diffgr:id="City52" msdata:rowOrder="51">
+        <CityID>1839</CityID>
+        <CityName>临武</CityName>
+      </City>
+      <City diffgr:id="City53" msdata:rowOrder="52">
+        <CityID>1671</CityID>
+        <CityName>汨罗</CityName>
+      </City>
+      <City diffgr:id="City54" msdata:rowOrder="53">
+        <CityID>1622</CityID>
+        <CityName>南县</CityName>
+      </City>
+      <City diffgr:id="City55" msdata:rowOrder="54">
+        <CityID>1724</CityID>
+        <CityName>南岳</CityName>
+      </City>
+      <City diffgr:id="City56" msdata:rowOrder="55">
+        <CityID>1669</CityID>
+        <CityName>宁乡</CityName>
+      </City>
+      <City diffgr:id="City57" msdata:rowOrder="56">
+        <CityID>1672</CityID>
+        <CityName>平江</CityName>
+      </City>
+      <City diffgr:id="City58" msdata:rowOrder="57">
+        <CityID>1831</CityID>
+        <CityName>宁远</CityName>
+      </City>
+      <City diffgr:id="City59" msdata:rowOrder="58">
+        <CityID>1778</CityID>
+        <CityName>祁东</CityName>
+      </City>
+      <City diffgr:id="City60" msdata:rowOrder="59">
+        <CityID>1777</CityID>
+        <CityName>祁阳</CityName>
+      </City>
+      <City diffgr:id="City61" msdata:rowOrder="60">
+        <CityID>1614</CityID>
+        <CityName>桑植</CityName>
+      </City>
+      <City diffgr:id="City62" msdata:rowOrder="61">
+        <CityID>1720</CityID>
+        <CityName>韶山</CityName>
+      </City>
+      <City diffgr:id="City63" msdata:rowOrder="62">
+        <CityID>1719</CityID>
+        <CityName>邵东</CityName>
+      </City>
+      <City diffgr:id="City64" msdata:rowOrder="63">
+        <CityID>1716</CityID>
+        <CityName>邵阳</CityName>
+      </City>
+      <City diffgr:id="City65" msdata:rowOrder="64">
+        <CityID>1841</CityID>
+        <CityName>汝城</CityName>
+      </City>
+      <City diffgr:id="City66" msdata:rowOrder="65">
+        <CityID>1616</CityID>
+        <CityName>石门</CityName>
+      </City>
+      <City diffgr:id="City67" msdata:rowOrder="66">
+        <CityID>1723</CityID>
+        <CityName>双峰</CityName>
+      </City>
+      <City diffgr:id="City68" msdata:rowOrder="67">
+        <CityID>1773</CityID>
+        <CityName>邵阳县</CityName>
+      </City>
+      <City diffgr:id="City69" msdata:rowOrder="68">
+        <CityID>1664</CityID>
+        <CityName>桃江</CityName>
+      </City>
+      <City diffgr:id="City70" msdata:rowOrder="69">
+        <CityID>1661</CityID>
+        <CityName>桃源</CityName>
+      </City>
+      <City diffgr:id="City71" msdata:rowOrder="70">
+        <CityID>1828</CityID>
+        <CityName>双牌</CityName>
+      </City>
+      <City diffgr:id="City72" msdata:rowOrder="71">
+        <CityID>1768</CityID>
+        <CityName>绥宁</CityName>
+      </City>
+      <City diffgr:id="City73" msdata:rowOrder="72">
+        <CityID>1767</CityID>
+        <CityName>通道</CityName>
+      </City>
+      <City diffgr:id="City74" msdata:rowOrder="73">
+        <CityID>1722</CityID>
+        <CityName>湘潭</CityName>
+      </City>
+      <City diffgr:id="City75" msdata:rowOrder="74">
+        <CityID>1721</CityID>
+        <CityName>湘乡</CityName>
+      </City>
+      <City diffgr:id="City76" msdata:rowOrder="75">
+        <CityID>1667</CityID>
+        <CityName>湘阴</CityName>
+      </City>
+      <City diffgr:id="City77" msdata:rowOrder="76">
+        <CityID>1713</CityID>
+        <CityName>新化</CityName>
+      </City>
+      <City diffgr:id="City78" msdata:rowOrder="77">
+        <CityID>1705</CityID>
+        <CityName>新晃</CityName>
+      </City>
+      <City diffgr:id="City79" msdata:rowOrder="78">
+        <CityID>1718</CityID>
+        <CityName>新邵</CityName>
+      </City>
+      <City diffgr:id="City80" msdata:rowOrder="79">
+        <CityID>1770</CityID>
+        <CityName>武冈</CityName>
+      </City>
+      <City diffgr:id="City81" msdata:rowOrder="80">
+        <CityID>1709</CityID>
+        <CityName>溆浦</CityName>
+      </City>
+      <City diffgr:id="City82" msdata:rowOrder="81">
+        <CityID>1769</CityID>
+        <CityName>新宁</CityName>
+      </City>
+      <City diffgr:id="City83" msdata:rowOrder="82">
+        <CityID>1833</CityID>
+        <CityName>新田</CityName>
+      </City>
+      <City diffgr:id="City84" msdata:rowOrder="83">
+        <CityID>1668</CityID>
+        <CityName>益阳</CityName>
+      </City>
+      <City diffgr:id="City85" msdata:rowOrder="84">
+        <CityID>1787</CityID>
+        <CityName>炎陵</CityName>
+      </City>
+      <City diffgr:id="City86" msdata:rowOrder="85">
+        <CityID>1654</CityID>
+        <CityName>永顺</CityName>
+      </City>
+      <City diffgr:id="City87" msdata:rowOrder="86">
+        <CityID>1727</CityID>
+        <CityName>攸县</CityName>
+      </City>
+      <City diffgr:id="City88" msdata:rowOrder="87">
+        <CityID>1838</CityID>
+        <CityName>宜章</CityName>
+      </City>
+      <City diffgr:id="City89" msdata:rowOrder="88">
+        <CityID>1666</CityID>
+        <CityName>沅江</CityName>
+      </City>
+      <City diffgr:id="City90" msdata:rowOrder="89">
+        <CityID>1658</CityID>
+        <CityName>沅陵</CityName>
+      </City>
+      <City diffgr:id="City91" msdata:rowOrder="90">
+        <CityID>1628</CityID>
+        <CityName>岳阳</CityName>
+      </City>
+      <City diffgr:id="City92" msdata:rowOrder="91">
+        <CityID>1788</CityID>
+        <CityName>永兴</CityName>
+      </City>
+      <City diffgr:id="City93" msdata:rowOrder="92">
+        <CityID>1615</CityID>
+        <CityName>张家界</CityName>
+      </City>
+      <City diffgr:id="City94" msdata:rowOrder="93">
+        <CityID>1775</CityID>
+        <CityName>永州</CityName>
+      </City>
+      <City diffgr:id="City95" msdata:rowOrder="94">
+        <CityID>1706</CityID>
+        <CityName>芷江</CityName>
+      </City>
+      <City diffgr:id="City96" msdata:rowOrder="95">
+        <CityID>1728</CityID>
+        <CityName>株洲</CityName>
+      </City>
+      <City diffgr:id="City97" msdata:rowOrder="96">
+        <CityID>1840</CityID>
+        <CityName>资兴</CityName>
+      </City>
+      <City diffgr:id="City98" msdata:rowOrder="97">
+        <CityID>3576</CityID>
+        <CityName>望城</CityName>
+      </City>
+      <City diffgr:id="City99" msdata:rowOrder="98">
+        <CityID>3577</CityID>
+        <CityName>洪江</CityName>
+      </City>
+      <City diffgr:id="City100" msdata:rowOrder="99">
+        <CityID>3578</CityID>
+        <CityName>中方</CityName>
+      </City>
+    </Region>
+  </diffgr:diffgram>
+</DataSet>

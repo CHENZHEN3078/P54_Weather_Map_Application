@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>weather</display-name>
+  <welcome-file-list>
+    <welcome-file>index</welcome-file>
+  </welcome-file-list>
+  <servlet>
+    <servlet-name>QueryProvince</servlet-name>
+    <servlet-class>com.yk.servlet.QueryProvince</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>QueryProvince</servlet-name>
+    <url-pattern>/queryProvince</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>QueryCity</servlet-name>
+    <servlet-class>com.yk.servlet.QueryCity</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>QueryCity</servlet-name>
+    <url-pattern>/queryCity</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>QueryWeather</servlet-name>
+    <servlet-class>com.yk.servlet.QueryWeather</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>QueryWeather</servlet-name>
+    <url-pattern>/queryWeather</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>QueryCityByProvince</servlet-name>
+    <url-pattern>/queryCityByProvince</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>QueryCityByProvince</servlet-name>
+    <servlet-class>com.yk.servlet.QueryCityByProvince</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>IndexServlet</servlet-name>
+    <url-pattern>/index</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>IndexServlet</servlet-name>
+    <servlet-class>com.yk.servlet.IndexServlet</servlet-class>
+  </servlet>
+</web-app>
